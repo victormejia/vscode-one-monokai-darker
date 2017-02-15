@@ -12,5 +12,5 @@ ext install one-monokai-darker
 
 ## Screenshot
 
-![Theme Screenshot](https://github.com/azemoh/vscode-one-monokai/raw/master/screenshot-v0.2.0.png)
+![Theme Screenshot](https://raw.githubusercontent.com/victormejia/vscode-one-monokai-darker/master/screenshot.png)
 
