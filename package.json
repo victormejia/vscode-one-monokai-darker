@@ -1,0 +1,22 @@
+{
+    "name": "one-monokai-darker",
+    "displayName": "One Monokai Darker",
+    "description": "Darker version of One Dark theme.",
+    "version": "0.0.1",
+    "publisher": "victormejia",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneMonokai.tmTheme"
+            }
+        ]
+    }
+}
