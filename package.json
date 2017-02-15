@@ -2,8 +2,13 @@
     "name": "one-monokai-darker",
     "displayName": "One Monokai Darker",
     "description": "Darker version of One Monokai theme.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "victormejia",
+    "author": "Victor Mejia <victor.a.mejia@gmail.com@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/victormejia/vscode-one-monokai-darker.git"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -18,5 +23,6 @@
                 "path": "./themes/OneMonokaiDarker.tmTheme"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
