@@ -1,16 +1,16 @@
 {
     "name": "one-monokai-darker",
     "displayName": "One Monokai Darker",
-    "description": "Darker version of One Monokai theme.",
-    "version": "0.1.2",
+    "description": "Darker version of One Monokai theme for Visual Studio Code.",
+    "version": "1.0.0",
     "publisher": "victormejia",
     "author": "Victor Mejia <victor.a.mejia@gmail.com@gmail.com>",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/victormejia/vscode-one-monokai-darker.git"
-    },
-    "engines": {
-        "vscode": "^1.5.0"
     },
     "categories": [
         "Themes"
@@ -20,9 +20,8 @@
             {
                 "label": "One Monokai Darker",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokaiDarker.tmTheme"
+                "path": "./themes/one-monokai-darker-color-theme.json"
             }
         ]
-    },
-    "license": "MIT"
+    }
 }
