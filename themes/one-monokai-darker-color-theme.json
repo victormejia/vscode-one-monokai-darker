@@ -78,7 +78,7 @@
 			"name": "Language Variable",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#c36c72"
+				"foreground": "#c56c72"
 			}
 		},
 		{
@@ -99,21 +99,21 @@
 				"keyword.operator.constructor"
 			],
 			"settings": {
-				"foreground": "#c36c72"
+				"foreground": "#c56c72"
 			}
 		},
 		{
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#c36c72"
+				"foreground": "#c56c72"
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"foreground": "#c36c72"
+				"foreground": "#c56c72"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 				"entity.name.tag.class.jsx"
 			],
 			"settings": {
-				"foreground": "#c36c72"
+				"foreground": "#c56c72"
 			}
 		},
 		{
