@@ -401,6 +401,8 @@
 		}
 	],
 	"colors": {
+		"activityBarBadge.background": "#4D78CC",
+    	        "activityBarBadge.foreground": "#F8FAFD",
 		"editor.background": "#1E1E1E",
 		"editorCursor.foreground": "#528bff",
 		"editor.foreground": "#D4D4D4",
